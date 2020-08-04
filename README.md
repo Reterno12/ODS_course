@@ -1,2 +1,2 @@
 # ODS_course
-My assignments for ODS course
+In this repository you will see only my assignments for the course and kaggle competitions code
